@@ -1,1 +1,3 @@
-# semcomm.github.io
+# semcomm
+
+Collect workshops being organized.
