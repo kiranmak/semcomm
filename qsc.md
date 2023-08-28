@@ -20,7 +20,6 @@ title: 1st Workshop on 6G Enablers - Satellite, Qualitative and Semantic Communi
 <div align="center">
 <br>
 <h2><a href="https://qualitativesemantic.wordpress.com/">SQSC'23 Workshop PROGRAM is Published - here!</a></h2>
-  [6G Enablers: Program](https://qualitativesemantic.wordpress.com/)
 <br>
 </div>
 
