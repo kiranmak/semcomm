@@ -9,17 +9,17 @@ title: 1st Workshop on 6G Enablers - Satellite, Qualitative and Semantic Communi
     <img src="assets/img/icnp_logo.png" width='60' height='YYY' alt="">
   </div>
   <div>
-    <h1 style="text-align: center; padding-right:40px; line-height:1em;">1st Workshop on New IP and Beyond</h1>
+    <h1 style="text-align: center; padding-right:40px; line-height:1em;">Workshop on 6G Enablers - Satellite, Qualitative and Semantic Communications </h1>
   </div>
 </div>
 
-<h4 style="text-align: center;line-height:2em;">Organized by: IEEE ICNP 2022</h4>
-<h5 style="text-align: center; line-height:0em;">The 30th IEEE International Conference on Network Protocols</h5>
-<h6 style="text-align: center;line-height:0em;">Lexington, Kentucky, USA, October 30-November 2, 2022</h6>
+<h4 style="text-align: center;line-height:2em;">Organized by: IEEE ICNP 2023</h4>
+<h5 style="text-align: center; line-height:0em;">The 31st IEEE International Conference on Network Protocols</h5>
+<h6 style="text-align: center;line-height:0em;">Reykjavik, Iceland, October 10-13, 2023</h6>
 
 <div align="center">
 <br>
-<h2><a href="http://newip-and-beyond.net/program.html">NIB'22 Workshop PROGRAM is Published - here!</a></h2>
+<h2><a href="[https://qualitativesemantic.wordpress.com/]">SQSC'23 Workshop PROGRAM is Published - here!</a></h2>
 <br>
 </div>
 
@@ -37,7 +37,7 @@ This workshop aims to bring together researchers, practitioners, and industry ex
 
 ## Topics of Interest
 
-We solicit stimulating, original, previously unpublished ideas on completed work, position papers, and/or work-in-progress papers in the form of extended abstracts. We invite submissions concept, design, frameworks, and experiments on a wide range of topics of interest, including, but not limited to:
+We solicit stimulating, original, previously unpublished ideas on completed work, position papers, and/or work-in-progress papers in the form of extended abstracts. We invite submissions concepts, design, frameworks, and experiments on a wide range of topics of interest, including, but not limited to:
 
 - Satellite Connectivity: addressing scheme, DNS deployment, path determination, packet forwarding and switching, IGP and BGP Routing protocols, etc.
 - Satellite Mobility: mobility processing, seamless handover, multi-path support, etc.
@@ -65,22 +65,21 @@ We solicit stimulating, original, previously unpublished ideas on completed work
 
 ## Submission Instructions
 
-Submissions must be original, unpublished work, and not under consideration at another conference or journal. Paper submissions should adhere to the IEEE Conference formatting requirements  with double column and the font size must be 10 points. The length of the final paper with all its content (including references) must not exceed 6 pages. Papers must include author’s names and affiliations for single-blind peer reviewing by the PC. Authors of accepted papers are expected to present their papers at the workshop.
+Submissions must be original, unpublished work, and not under consideration at another conference or journal. Paper submissions should adhere to the IEEE Conference formatting requirements  with double columns and the font size must be 10 points. The length of the final paper with all its content (including references) must not exceed 6 pages. Papers must include the author’s names and affiliations for single-blind peer reviewing by the PC. Authors of accepted papers are expected to present their papers at the workshop.
 
 The IEEE template [available here](https://www.ieee.org/conferences/publishing/templates.html)
 
 #### Paper Submission
 
-Please submit your paper using workshop's  Coming soon
+Please submit your paper via the official ICNP 2023 Submission page: https://sqsc23.hotcrp.com
 
-## Programme Committe
+## Programme Committee
 
 
 #### General Co-Chairs
 
 - Lijun Dong, Futurewei Technologies Inc., U.S.A
 - Roberto Rojas-Cessa, New Jersey Institute of Technology, U.S.A
-
 
 #### Workshop PC Co-Chairs
 
@@ -89,9 +88,24 @@ Please submit your paper using workshop's  Coming soon
 
 ### Technical Programme Committee
 
-
-
-
+- Yuanjie Li, Tsinghua University, China
+- Alessio Sacco, Polytechnic University of Turin, Italy
+- Yuanwei Liu, Queen Mary University of London, U.K.
+- Tooba Faisal, Nokia Bell-Labs, France
+- Kaibin Huang, Hong Kong University, China
+- Sheng Jiang, Beijing University of Posts and Telecommunications, China
+- Alex Clemm, Futurewei Technologies Inc., U.S.A
+- Shangguang Wang, Tiansuan Constellation, China
+- Chin-Tser Huang, University of South Carolina, U.S.A
+- Tarik Taleb, University of Oulu, Finland
+- Yuanzhu Chen, Queen’s University, Canada
+- Mehdi Bennis, University of Oulu, Finland
+- Tianji Jiang, China Mobile, U.S.A
+- Hongxiang Li, University of Louisville, U.S.A
+- Stuart Clayman, University College London, U.K.
+- Yong Xiao, Huazhong University of Science and Technology, China
+- Nirmala Shenoy, Rochester Institute of Technology, U.S.A
+- Jiang Liu, Beijing University of Posts and Telecommunications, China
 ---
 
 ## Important dates: (tentative)
